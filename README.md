@@ -45,7 +45,7 @@ Official links: [Website](https://www.waveshare.com/) · [Store](https://www.wav
 
 ### Board Support Packages
 
-- [waveshare/esp32_s3_touch_amoled_2_06](https://components.espressif.com/components/waveshare/esp32_s3_touch_amoled_2_06/versions/2.0.0/readme) - ESP-IDF board definition package.
+- [waveshare/esp32_s3_touch_amoled_2_06](https://components.espressif.com/components/waveshare/esp32_s3_touch_amoled_2_06/versions/2.0.0/readme) - ESP-IDF board support package.
 
 ## Projects & Examples
 
@@ -55,8 +55,14 @@ Official links: [Website](https://www.waveshare.com/) · [Store](https://www.wav
 
 ### Community Projects
 
-- [{{Project Name}}]({{URL}}) - {{Description}}. By [@{{author}}]({{AUTHOR_URL}}).
+- [waveshare-watch-rs](https://github.com/infinition/waveshare-watch-rs) - 100% Rust `no_std` smartwatch firmware for the Waveshare ESP32-S3-Touch-AMOLED-2.06
+- [Picoware](https://github.com/jblanked/Picoware) - Open-source custom firmware for PicoCalc, Cardputer ADV, Flipper Zero, POOM, and other ESP32/Raspberry Pi Pico devices
+- [Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
+- [chronos-amoled](https://github.com/nevelate/chronos-amoled) - Chronos Watchy ported to Waveshare ESP32-S3-Touch-AMOLED-2.06 [WIP]
+- [Chronos-navio](https://github.com/fbiego/chronos-navio) - Chronos Navigation firmware for ESP32-based devices
+- [cubeboy](https://github.com/nevelate/cube-boy/tree/amoled) - Play Gameboy & GBC games on an ESP32-S3! [WIP] 
 
 ## Videos
 
-- [{{Title}}]({{URL}}) - {{Speaker / Channel}}, {{Year}}.
+- [Battery Installation Tutorial】Waveshare ESP32-S3-Touch-AMOLED-2.06](https://www.youtube.com/watch?v=5HYsyMwuWq0) - Waveshare Electronics
+- [ESP32 + Smartwatch = Smart Home Control!](https://www.youtube.com/watch?v=pLcABak9Scc) - Volos Projects
