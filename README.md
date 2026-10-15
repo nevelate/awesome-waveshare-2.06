@@ -57,6 +57,7 @@ Official links: [Website](https://www.waveshare.com/) · [Store](https://www.wav
 
 - [waveshare-watch-rs](https://github.com/infinition/waveshare-watch-rs) - 100% Rust `no_std` smartwatch firmware for the Waveshare ESP32-S3-Touch-AMOLED-2.06
 - [Picoware](https://github.com/jblanked/Picoware) - Open-source custom firmware for PicoCalc, Cardputer ADV, Flipper Zero, POOM, and other ESP32/Raspberry Pi Pico devices
+- [Tactility](https://github.com/TactilityProject/Tactility) - An operating system for ESP32 devices.
 - [Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
 - [chronos-amoled](https://github.com/nevelate/chronos-amoled) - Chronos Watchy ported to Waveshare ESP32-S3-Touch-AMOLED-2.06 [WIP]
 - [Chronos-navio](https://github.com/fbiego/chronos-navio) - Chronos Navigation firmware for ESP32-based devices
